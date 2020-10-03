@@ -1,0 +1,6 @@
+framework module Pods_Xcode11_Xcode11UITests {
+  umbrella header "Pods-Xcode11-Xcode11UITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
